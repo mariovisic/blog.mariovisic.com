@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'rubygems'
 require 'open-uri'
 require 'fileutils'
@@ -142,6 +144,7 @@ module Jekyll
         content.gsub!(/<\/#{tag}/i, "||" + tag)
       end
       content = %x[echo '#{content.gsub("'", "''")}' | html2text]
+      content = Iconv.conv('utf-8', 'ISO-8859-1', content)
       preserve.each do |tag|
         content.gsub!("$$" + tag, "<" + tag)
         content.gsub!("||" + tag, "</" + tag)
