@@ -11,10 +11,14 @@ out something interesting when checking if objects or relations exist in a
 collection.
 To check if there were any items present in a collection I would do something
 like this:
-Object.relation.present?
+
+  Object.relation.present?
+
 Keith told me to use:
-Object.relation.any?
+
+  Object.relation.any?
+
 Turns out that the aannyy?? method will perform a CCOOUUNNTT ((**)) SQL query where as the
 pprreesseenntt?? method will perform a SSEELLEECCTT ((**)) which is infinitely slower than
 performing a count.
-So from now on ill be using the any? method instead of present?
+So from now on i&#8217;ll be using the any? method instead of present?

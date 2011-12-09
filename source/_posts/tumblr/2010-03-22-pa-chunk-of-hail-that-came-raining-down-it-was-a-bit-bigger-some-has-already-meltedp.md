@@ -8,4 +8,3 @@ categories:
 - storm
 - weather
 ---
-[Image]

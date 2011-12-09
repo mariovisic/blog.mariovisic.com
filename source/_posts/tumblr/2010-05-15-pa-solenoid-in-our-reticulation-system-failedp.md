@@ -5,4 +5,3 @@ categories:
 - reticulation
 - fail
 ---
-[Image]

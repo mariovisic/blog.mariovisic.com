@@ -7,4 +7,3 @@ categories:
 - broken
 - chair
 ---
-[Image]

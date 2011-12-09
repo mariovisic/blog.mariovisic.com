@@ -7,4 +7,3 @@ categories:
 - humour
 - funny
 ---
-[Image]

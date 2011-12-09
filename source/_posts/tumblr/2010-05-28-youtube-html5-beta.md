@@ -9,10 +9,11 @@ categories:
 - adobe
 ---
 Dear Youtube.
-I cant understand how you can call the HTML5 video player a beta product when
-it is more stable than the flash video player offered. The HTML5 video player
-seems to seek better, takes less time to start playback after buffering and
-doesnt cause the CPU fan on my machine to spin up like its about to explode.
+I can&#8217;t understand how you can call the HTML5 video player a beta product
+when it is more stable than the flash video player offered. The HTML5 video
+player seems to seek better, takes less time to start playback after buffering
+and doesn&#8217;t cause the CPU fan on my machine to spin up like it&#8217;s
+about to explode.
 Perhaps the flash video player should be called a beta product and the HTML5
 player stable?
 You can try the beta for yourself by _e_n_a_b_l_i_n_g_ _i_t_ _h_e_r_e. Just click the link to

@@ -7,4 +7,3 @@ categories:
 - design murder
 - horrible
 ---
-[Image]

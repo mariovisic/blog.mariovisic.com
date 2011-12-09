@@ -9,4 +9,3 @@ categories:
 - humor
 - humour
 ---
-_[_I_m_a_g_e_]

@@ -16,15 +16,21 @@ used by others.
 Getting started creating radiant extensions is really easy thanks to the
 generator that is provided. In a couple of hours, armed with my favourite text
 editor and a rubygems.org account the extension was published as a gem and
-ready to use. Heres how you go about using it:
+ready to use. Here&#8217;s how you go about using it:
 Either create or get hold of an existing radiant project. The extension should
 work with radiant version 0.9 or greater, then simply run:
-gem install radiant-autoresize_textarea-extension
+
+  gem install radiant-autoresize_textarea-extension
+
 Now add the following line to your config/environment.rb:
-config.gem radiant-autoresize_textarea-extension, :lib => false
-Now were almost done, we just need to run update on our extension to copy over
-the required files.
-rake radiant:extensions:autoresize_textarea:update
-Also, if I could think of a better name instead of autoresize_textarea I
-would have named it something else, add a note with your suggestion if you can
-think of one.
+
+  config.gem radiant-autoresize_textarea-extension, :lib => false
+
+Now we&#8217;re almost done, we just need to run update on our extension to
+copy over the required files.
+
+  rake radiant:extensions:autoresize_textarea:update
+
+Also, if I could think of a better name instead of
+&#8216;autoresize_textarea&#8217; I would have named it something else, add a
+note with your suggestion if you can think of one.

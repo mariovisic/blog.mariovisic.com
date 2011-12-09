@@ -5,4 +5,3 @@ title: <p>I forgot to buy a new parking permit so I received a fine today, which
 categories:
 - news
 ---
-[Image]

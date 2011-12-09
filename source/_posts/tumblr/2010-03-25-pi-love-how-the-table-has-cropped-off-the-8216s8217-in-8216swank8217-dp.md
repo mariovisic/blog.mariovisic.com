@@ -7,4 +7,3 @@ categories:
 - github
 - humor
 ---
-[Image]
