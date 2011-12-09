@@ -12,7 +12,7 @@ module Jekyll
   module Tumblr
     def self.process(url, format = "html", grab_images = true,
                      add_highlights = true, rewrite_urls = true)
-      FileUtils.mkdir_p "_posts/tumblr"
+      FileUtils.mkdir_p "source/_posts/tumblr"
       url += "/api/read/json/"
       per_page = 50
       posts = []
@@ -34,7 +34,7 @@ module Jekyll
           post[:content] = html_to_markdown post[:content]
           post[:content] = add_syntax_highlights post[:content] if add_highlights
         end
-        File.open("_posts/tumblr/#{post[:name]}", "w") do |f|
+        File.open("source/_posts/tumblr/#{post[:name]}", "w") do |f|
           f.puts post[:header].to_yaml + "---\n" + post[:content]
         end
       end
@@ -111,7 +111,7 @@ module Jekyll
     # site/posts to get the correct permalink format.
     def self.rewrite_urls_and_redirects(posts)
       site = Jekyll::Site.new(Jekyll.configuration({}))
-      dir = File.join(File.dirname(__FILE__), "../")
+      dir = File.join(File.dirname(__FILE__), "..", 'source/')
       urls = Hash[posts.map { |post|
         tumblr_url = URI.parse(post[:slug]).path
 
@@ -120,8 +120,8 @@ module Jekyll
 
         jekyll_url = Jekyll::Post.new(site, dir, "", "tumblr/" + post[:name]).url
         redirect_dir = tumblr_url.sub(/\//, "") + "/"
-        FileUtils.mkdir_p redirect_dir
-        File.open(redirect_dir + "index.html", "w") do |f|
+        FileUtils.mkdir_p 'source/' + redirect_dir
+        File.open('source/' + redirect_dir + "index.html", "w") do |f|
           f.puts "<html><head><meta http-equiv='Refresh' content='0; " +
                  "url=#{jekyll_url}'></head><body></body></html>"
         end
@@ -181,11 +181,11 @@ module Jekyll
 
     def self.save_file(url, grab_image = false)
       unless grab_image == false || url.nil? || url == ''
-        FileUtils.mkdir_p "tumblr_files"
-        File.open("tumblr_files/#{url.split('/').last}", "w") do |f|
+        FileUtils.mkdir_p "source/tumblr_files"
+        File.open("source/tumblr_files/#{url.split('/').last}", "w") do |f|
           f.write(open(url).read)
         end
-        return "/tumblr_files/#{url.split('/').last}"
+        return "/source/tumblr_files/#{url.split('/').last}"
       else
         return url
       end
