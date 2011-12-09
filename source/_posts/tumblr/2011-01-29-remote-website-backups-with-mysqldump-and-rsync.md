@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remote website Backups with mysqldump and rsync
-tags:
+categories:
 - web development
 - backup
 - system administration

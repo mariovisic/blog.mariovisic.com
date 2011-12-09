@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Published My First Ruby Gem
-tags:
+categories:
 - ruby
 - rubygem
 - gem

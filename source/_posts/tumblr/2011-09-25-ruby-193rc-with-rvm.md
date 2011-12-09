@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby 1.9.3rc with RVM
-tags:
+categories:
 - ruby
 ---
 The Ruby MRI 1.9.3 RC1 has just been released and I wanted to try it out, the

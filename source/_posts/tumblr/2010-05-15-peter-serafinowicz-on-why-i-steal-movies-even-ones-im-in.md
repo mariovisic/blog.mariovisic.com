@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Peter Serafinowicz on "Why I Steal Movies… Even Ones I’m In"
-tags:
+categories:
 - Peter Serafinowicz
 - piracy
 - gizmodo

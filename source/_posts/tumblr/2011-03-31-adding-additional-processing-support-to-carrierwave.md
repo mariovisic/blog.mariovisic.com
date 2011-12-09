@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding additional processing support to CarrierWave
-tags:
+categories:
 - rails 3
 - ruby on rails
 - carrier wave

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple caching for blog posts.
-tags:
+categories:
 - ror
 - ruby on rails
 - web development

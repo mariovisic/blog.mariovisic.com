@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setup radiant projects easily with radiant-go
-tags:
+categories:
 - radiant
 - radiant-go
 - ruby

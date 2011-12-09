@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using arel directly in rails
-tags:
+categories:
 - ruby on rails
 - web development
 - arel

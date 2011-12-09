@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <p> Humorous chart.</p>
-tags:
+categories:
 - programming
 - humor
 - humour

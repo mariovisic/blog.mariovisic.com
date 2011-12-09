@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <p>Thanks to EvilZoMBiE for this one</p>
-tags:
+categories:
 - programming
 - cake
 - programming cake

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moving from REE to 1.9.2 in production
-tags:
+categories:
 - ruby
 - ruby on rails
 - rvm

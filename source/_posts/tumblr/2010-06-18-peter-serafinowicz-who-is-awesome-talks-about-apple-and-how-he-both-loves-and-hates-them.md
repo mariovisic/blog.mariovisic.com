@@ -2,7 +2,7 @@
 layout: post
 title: Peter Serafinowicz (who is awesome) talks about apple and how he both loves
   and hates them.
-tags:
+categories:
 - apple
 - gizmodo
 - technology

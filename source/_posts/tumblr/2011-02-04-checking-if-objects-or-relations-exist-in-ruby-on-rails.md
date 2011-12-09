@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checking if objects or relations exist in Ruby on Rails
-tags:
+categories:
 - web development
 - ruby on rails
 - programming

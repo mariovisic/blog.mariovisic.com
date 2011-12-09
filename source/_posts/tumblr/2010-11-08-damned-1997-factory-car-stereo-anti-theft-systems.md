@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Damned 1997 Factory car stereo anti theft systems
-tags:
+categories:
 - odd
 - cd player
 - car stereo

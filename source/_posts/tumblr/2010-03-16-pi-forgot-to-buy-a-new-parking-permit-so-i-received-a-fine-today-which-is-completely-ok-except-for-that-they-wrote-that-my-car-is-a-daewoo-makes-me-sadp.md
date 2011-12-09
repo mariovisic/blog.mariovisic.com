@@ -2,7 +2,7 @@
 layout: post
 title: <p>I forgot to buy a new parking permit so I received a fine today, which is
   completely OK. Except for that they wrote that my car is a Daewoo. Makes me sad</p>
-tags:
+categories:
 - news
 ---
 [Image]

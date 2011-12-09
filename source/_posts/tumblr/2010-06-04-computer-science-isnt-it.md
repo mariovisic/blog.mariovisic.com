@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Science isn't IT
-tags: 
+categories: 
 ---
 If I tell people that Im enrolled in a computer science degree, most people
 dont know what it is, they just assume I fix computers. Theres a great

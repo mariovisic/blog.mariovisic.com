@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fiddling with Prototype
-tags:
+categories:
 - jQuery
 - javascript
 - web development

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sum of a numerical array
-tags:
+categories:
 - ruby
 - rails
 - web development

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some fun with git
-tags:
+categories:
 - git
 - source code control
 - awesome

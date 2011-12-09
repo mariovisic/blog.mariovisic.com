@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hidden Snowman in rails.
-tags:
+categories:
 - rails
 - web development
 - rails 3

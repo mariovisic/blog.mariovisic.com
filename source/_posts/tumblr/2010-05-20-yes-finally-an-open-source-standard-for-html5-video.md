@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yes, Finally an open source standard for HTML5 Video
-tags:
+categories:
 - html5
 - google
 - web development

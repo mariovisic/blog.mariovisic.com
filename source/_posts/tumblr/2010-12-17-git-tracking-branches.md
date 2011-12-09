@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git Tracking Branches
-tags:
+categories:
 - git
 - version control
 ---

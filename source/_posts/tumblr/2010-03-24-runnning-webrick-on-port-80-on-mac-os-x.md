@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Runnning WEBrick on port 80 on Mac OS X
-tags:
+categories:
 - web development
 - ruby
 - rails

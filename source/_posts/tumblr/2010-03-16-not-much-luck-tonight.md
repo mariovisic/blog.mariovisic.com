@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not much luck tonight
-tags:
+categories:
 - news
 ---
 I dont seem to be having the best of luck tonight. Ive come home after

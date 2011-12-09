@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stephen Fry at the Sydney Opera House
-tags:
+categories:
 - stephen fry
 - inspirational
 - talk

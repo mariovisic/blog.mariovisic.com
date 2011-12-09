@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A letter to Perth web development firms
-tags: 
+categories: 
 ---
 Dear web development companies:
 The fact that you already paid the huge sum of money to be a microsoft

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indoor Soccer season starts again
-tags:
+categories:
 - indoor soccer
 - soccer
 - indoor

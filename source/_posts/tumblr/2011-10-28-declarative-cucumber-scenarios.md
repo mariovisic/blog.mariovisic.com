@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Declarative cucumber scenario's
-tags:
+categories:
 - ruby on rails
 - cucumber
 - ruby

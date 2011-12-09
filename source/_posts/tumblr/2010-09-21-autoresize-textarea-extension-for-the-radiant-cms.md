@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autoresize Textarea extension for the Radiant CMS
-tags:
+categories:
 - radiant
 - radiant cms
 - ruby

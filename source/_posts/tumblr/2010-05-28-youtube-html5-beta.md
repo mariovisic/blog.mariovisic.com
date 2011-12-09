@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Youtube HTML5 Beta
-tags:
+categories:
 - youtube
 - html5
 - beta

@@ -7,6 +7,6 @@ title: ! 'Hahahah this is awesome :)
 
 
   <blockquote><p>(<a href="http://www.reddit.com/r/funny/comments/bgkcg/ive_seen_some_of_these_wallpapers_recently_do/c0moqj0">reddit</a>)</p></blockquote>'
-tags: 
+categories: 
 ---
 [Image]

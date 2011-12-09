@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dear 37 Signals, please stop making good books.
-tags:
+categories:
 - web
 - web development
 - 37 signals

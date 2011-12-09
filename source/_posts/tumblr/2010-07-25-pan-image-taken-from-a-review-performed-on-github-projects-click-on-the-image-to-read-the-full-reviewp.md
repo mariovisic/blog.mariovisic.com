@@ -6,7 +6,7 @@ title: ! '<p>
   read the full review.
 
   </p>'
-tags:
+categories:
 - github
 ---
 _[_I_m_a_g_e_]

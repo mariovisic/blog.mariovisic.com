@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Locomotive CMS
-tags:
+categories:
 - ruby on rails
 - web development
 - locomotive cms

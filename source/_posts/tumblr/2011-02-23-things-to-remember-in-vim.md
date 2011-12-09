@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Things to remember in Vim
-tags:
+categories:
 - vim
 - programming
 - ruby on rails

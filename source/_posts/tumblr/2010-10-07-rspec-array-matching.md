@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rspec Array Matching
-tags:
+categories:
 - rails
 - rspec
 - testing

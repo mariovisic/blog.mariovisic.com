@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Messing around with Project Euler
-tags:
+categories:
 - programming
 - math
 - ruby

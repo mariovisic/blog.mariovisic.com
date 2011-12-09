@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My New tumblr theme.
-tags:
+categories:
 - tumblr themes
 - web development
 - themes

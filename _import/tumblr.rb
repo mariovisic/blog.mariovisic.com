@@ -98,7 +98,7 @@ module Jekyll
         :header => {
           "layout" => "post",
           "title" => title,
-          "tags" => post["tags"],
+          "categories" => post["tags"],
         },
         :content => content,
         :url => post["url"],

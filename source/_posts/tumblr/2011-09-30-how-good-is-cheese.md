@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Good is cheese
-tags:
+categories:
 - cheese
 - awesome
 ---
