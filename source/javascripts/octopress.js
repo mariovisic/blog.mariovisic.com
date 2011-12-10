@@ -25,14 +25,14 @@ function addSidebarToggler() {
   var sections = $('aside.sidebar > section');
   if (sections.length > 1) {
     sections.each(function(section, index){
-      if ((sections.length >= 3) && index % 3 === 0) {
+      if ((sections.length >= 4) && index % 4 === 0) {
         $(section).addClass("first");
       }
       var count = ((index +1) % 2) ? "odd" : "even";
       $(section).addClass(count);
     });
   }
-  if (sections.length >= 3){ $('aside.sidebar').addClass('thirds'); }
+  if (sections.length >= 4){ $('aside.sidebar').addClass('fourths'); }
 }
 
 function testFeatures() {
