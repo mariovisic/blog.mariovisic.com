@@ -7,7 +7,7 @@ categories:
 - arel
 ---
 Today I was creating a model method which would return some associated objects.
-It wasn&#8217;t hugely complex but I basically needed to match an sql string
+It wasn't hugely complex but I basically needed to match an sql string
 which looked something like this:
 
   SELECT * FROM table WHERE column_one = something AND column_two = something

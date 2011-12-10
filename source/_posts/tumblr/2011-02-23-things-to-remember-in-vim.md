@@ -6,9 +6,9 @@ categories:
 - programming
 - ruby on rails
 ---
-I&#8217;ve been using Vim for a couple of months now and soo far it&#8217;s
-been great. I&#8217;m still learning new things all the time which is really
-good as well. Here&#8217;s some of the tips and trick&#8217;s i&#8217;ve picked
+I've been using Vim for a couple of months now and soo far it's
+been great. I'm still learning new things all the time which is really
+good as well. Here's some of the tips and trick's i've picked
 up
 To Automatically indent the current line where it should reside when
 programming use:

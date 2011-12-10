@@ -6,7 +6,7 @@ categories:
 ---
 The Ruby MRI 1.9.3 RC1 has just been released and I wanted to try it out, the
 latest version of rvm only lists the 1.9.3 preview1 and 1.9.3-head which
-doesn&#8217;t appear to work correctly. Here&#8217;s how I managed to get 1.9.3
+doesn't appear to work correctly. Here's how I managed to get 1.9.3
 installed using rvm:
 
   rvm install ruby-1.9.3-tv1_9_3_rc1 --with-libyaml-dir=$HOME/.rvm/usr
@@ -16,7 +16,7 @@ installed using rvm:
 
 Ruby 1.9.3 works quite well (all of my tests still seem to be green), although
 there are a few small issues at the moment. For example ruby-debug19
-doesn&#8217;t currently install.
+doesn't currently install.
 Running a quick test shows that 1.9.3 does indeed seem to load up a rails
 environment much quicker, here is a comparison of running rspec and cucumber
 tests for a rails 3.1 project.

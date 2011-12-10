@@ -8,10 +8,10 @@ categories:
 - caching
 ---
 I maintain a website for my local soccer team called _K_n_i_g_h_t_s_ _A_r_m_y which is
-written in rails3 using a basic blog system I wrote myself. I&#8217;m using the
+written in rails3 using a basic blog system I wrote myself. I'm using the
 _R_e_d_C_l_o_t_h_ _g_e_m to process textile for blog posts.
 The website only gets a very small amount of visitors a day, so performance
-isn&#8217;t a concern of mine at all. The website does feel very snappy when
+isn't a concern of mine at all. The website does feel very snappy when
 navigating already. I was looking over the code that I had written a few months
 back and noticed that for each post (can be up to 10 shown per page) I was
 running RedCloth over the body contents like this:
@@ -68,7 +68,7 @@ end
 I ran some benchmarks using the _a_p_a_c_h_e_ _b_e_n_c_h_m_a_r_k_ _t_o_o_l for a rough guide of the
 performance gains. I ran the command aabb --cc 1100 --nn 11000000 _hh_tt_tt_pp_::_//_//
 _ww_ww_ww_.._kk_nn_ii_gg_hh_tt_ss_aa_rr_mm_yy_.._nn_ee_tt_// a total of 5 times and then took the 3 middle scores to
-make an average, here&#8217;s the results:
+make an average, here's the results:
 
   Before:
 
@@ -80,5 +80,5 @@ make an average, here&#8217;s the results:
    Average Time:  39.89 seconds
    Average RPS:   25.07 [#/sec] (mean)
 
-That&#8217;s a 44% increase in requests per second and a 30% reduction in
+That's a 44% increase in requests per second and a 30% reduction in
 response time. NNeeaatt!!

@@ -10,10 +10,10 @@ categories:
 ---
 Recently I began work on a project called radiant-go. Radiant-go is a rubygem
 that allows you to setup radiant projects easily. It saves a huge amount of
-time when setting up applications and it&#8217;s very easy to configure.
-Here&#8217;s some quick instructions on how to go about using it:
+time when setting up applications and it's very easy to configure.
+Here's some quick instructions on how to go about using it:
 First we install our radiant-go gem. It depends on radiant and bundler so it
-will install those too if they aren&#8217;t installed yet.
+will install those too if they aren't installed yet.
 
   gem install radiant-go
 

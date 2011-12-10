@@ -21,4 +21,4 @@ Keith told me to use:
 Turns out that the aannyy?? method will perform a CCOOUUNNTT ((**)) SQL query where as the
 pprreesseenntt?? method will perform a SSEELLEECCTT ((**)) which is infinitely slower than
 performing a count.
-So from now on i&#8217;ll be using the any? method instead of present?
+So from now on i'll be using the any? method instead of present?

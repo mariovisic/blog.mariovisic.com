@@ -8,10 +8,10 @@ categories:
 - os x
 - mac
 ---
-Due to the security restrictions on OS X, you can&#8217;t run anything on port
+Due to the security restrictions on OS X, you can't run anything on port
 80 without being the superuser. Although running script/server on your rails
-application with a sudo prefix won&#8217;t go down too well as your
-environmental variables (gem path, rails environment) won&#8217;t be set.
+application with a sudo prefix won't go down too well as your
+environmental variables (gem path, rails environment) won't be set.
 To get around this I usually create an alias in which I set my environmental
 varaibles for the sudo command like this:
 
