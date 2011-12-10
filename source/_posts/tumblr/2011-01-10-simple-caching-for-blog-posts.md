@@ -67,7 +67,7 @@ def set_cached_body
 end
 ```
 
-I ran some benchmarks using the [apache benchmark tool](http://httpd.apache.org/docs/2.0/programs/ab.html) for a rough guide of the performance gains. I ran the command `ab --c 100 -n 1000 http://www.knightsarmy.net` a total of 5 times and then took the 3 middle scores to
+I ran some benchmarks using the [apache benchmark tool](http://httpd.apache.org/docs/2.0/programs/ab.html) for a rough guide of the performance gains. I ran the command `ab -c 100 -n 1000 http://www.knightsarmy.net` a total of 5 times and then took the 3 middle scores to
 make an average, here's the results:
 
 ``` 
