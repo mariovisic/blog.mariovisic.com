@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Declarative cucumber scenario's
+title: Declarative cucumber scenarios
 categories:
 - ruby
 - ruby on rails
