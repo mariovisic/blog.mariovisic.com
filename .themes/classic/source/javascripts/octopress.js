@@ -32,7 +32,7 @@ function addSidebarToggler() {
       $(section).addClass(count);
     });
   }
-  if (sections.length >= 3){ $('aside.sidebar').addClass('thirds'); }
+  if (sections.length >= 3){ $('aside.sidebar').addClass('fourths'); }
 }
 
 function testFeatures() {
