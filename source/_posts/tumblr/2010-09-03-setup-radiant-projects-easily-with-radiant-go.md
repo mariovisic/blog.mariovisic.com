@@ -30,4 +30,4 @@ Now we can run our generator. If you have followed the step above, you need to r
 radiant-go project
 ```
 
-**That’s all, we’re done.** Your Radiant install is ready to use.
+**That’s all, we’re done.** Your Radiant install is ready to use. 
