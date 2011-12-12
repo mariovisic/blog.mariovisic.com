@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Yes, Finally an open source standard for HTML5 Video
 categories:
 - html5

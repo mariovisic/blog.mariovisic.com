@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Chief detail officers
 categories:
 - ted

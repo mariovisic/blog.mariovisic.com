@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Declarative cucumber scenarios
 categories:
 - ruby

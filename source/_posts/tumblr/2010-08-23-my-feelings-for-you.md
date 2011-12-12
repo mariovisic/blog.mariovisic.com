@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: My feelings for you
 categories:
 - Music Videos

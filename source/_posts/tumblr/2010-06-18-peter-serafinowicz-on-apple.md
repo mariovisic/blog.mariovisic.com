@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Peter Serafinowicz on Apple
 categories:
 - apple

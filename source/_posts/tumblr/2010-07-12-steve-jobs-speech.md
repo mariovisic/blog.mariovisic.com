@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Steve Jobs Speech
 categories:
 - steve jobs

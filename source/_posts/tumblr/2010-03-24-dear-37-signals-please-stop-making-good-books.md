@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Dear 37 Signals, please stop making good books.
 categories:
 - web

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Using arel directly in rails
 categories:
 - ruby

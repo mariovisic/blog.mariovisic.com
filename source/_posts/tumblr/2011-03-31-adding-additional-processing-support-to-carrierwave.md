@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Adding additional processing support to CarrierWave
 categories:
 - ruby

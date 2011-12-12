@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Stephen Fry at the Sydney Opera House
 categories:
 - stephen fry

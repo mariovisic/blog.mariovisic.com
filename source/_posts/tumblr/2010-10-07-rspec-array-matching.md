@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Rspec Array Matching
 categories:
 - rails

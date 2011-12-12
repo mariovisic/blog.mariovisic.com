@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Programmers happy birthday cake
 categories:
 - programming

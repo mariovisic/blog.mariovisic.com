@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Epic Sax Guy
 categories: 
 ---

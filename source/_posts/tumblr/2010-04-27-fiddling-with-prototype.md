@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Fiddling with Prototype
 categories:
 - jQuery

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Digital Love on Guitar
 categories:
 - digital love

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Setup radiant projects easily with radiant-go
 categories:
 - radiant

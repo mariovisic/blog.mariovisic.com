@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: How to get 5 million people to read your website
 categories:
 - the oatmeal

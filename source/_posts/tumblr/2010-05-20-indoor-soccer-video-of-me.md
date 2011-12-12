@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Indoor Soccer Video of Me
 categories:
 - soccer

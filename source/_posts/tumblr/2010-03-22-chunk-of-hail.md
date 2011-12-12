@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: A chunk of hail
 categories:
 - perth

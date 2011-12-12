@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Recursive programming textbook
 categories:
 - programming

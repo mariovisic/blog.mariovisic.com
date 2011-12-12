@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Things to remember in Vim
 categories:
 - vim

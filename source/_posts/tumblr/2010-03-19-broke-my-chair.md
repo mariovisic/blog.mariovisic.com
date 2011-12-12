@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Broke my chair
 categories:
 - funny

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Autoresize Textarea extension for the Radiant CMS
 categories:
 - radiant

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Simple caching for blog posts.
 categories:
 - ror

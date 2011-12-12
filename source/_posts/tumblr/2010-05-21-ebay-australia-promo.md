@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Ebay Australia Promo
 categories:
 - ebay australia

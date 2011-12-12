@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Checking if objects or relations exist in Ruby on Rails
 categories:
 - ruby

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Peter Serafinowicz on "Why I Steal Movies… Even Ones I’m In"
 categories:
 - Peter Serafinowicz

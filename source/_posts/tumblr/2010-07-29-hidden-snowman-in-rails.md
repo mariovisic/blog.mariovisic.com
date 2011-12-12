@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hidden Snowman in rails.
 categories:
 - rails

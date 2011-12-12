@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Some fun with git
 categories:
 - git

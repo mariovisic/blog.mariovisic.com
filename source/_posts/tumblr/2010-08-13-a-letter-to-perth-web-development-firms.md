@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: A letter to Perth web development firms
 categories: 
 ---

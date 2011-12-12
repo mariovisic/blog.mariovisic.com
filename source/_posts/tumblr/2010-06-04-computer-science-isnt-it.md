@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Computer Science isn't IT
 categories: 
 ---

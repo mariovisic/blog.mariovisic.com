@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Moving from REE to 1.9.2 in production
 categories:
 - ruby

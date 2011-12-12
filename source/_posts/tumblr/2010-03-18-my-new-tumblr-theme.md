@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: My New tumblr theme
 categories:
 - tumblr

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Not much luck tonight
 categories:
 - news

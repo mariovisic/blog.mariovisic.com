@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Pizza Thief
 categories:
 - comedy

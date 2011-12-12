@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: How Good is cheese
 categories:
 - cheese

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Published My First Ruby Gem
 categories:
 - ruby

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Ruby 1.9.3rc with RVM
 categories:
 - ruby

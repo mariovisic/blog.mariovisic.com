@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Sum of a numerical array
 categories:
 - ruby

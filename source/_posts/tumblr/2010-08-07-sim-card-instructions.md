@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Sim card instructions
 categories: 
 ---

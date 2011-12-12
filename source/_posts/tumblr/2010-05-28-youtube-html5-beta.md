@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Youtube HTML5 Beta
 categories:
 - youtube

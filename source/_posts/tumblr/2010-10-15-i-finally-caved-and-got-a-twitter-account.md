@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: I finally caved and got a twitter account
 categories:
 - twitter

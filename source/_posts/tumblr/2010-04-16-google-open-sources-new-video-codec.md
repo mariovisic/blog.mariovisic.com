@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Google open sources new video codec
 categories: 
 ---

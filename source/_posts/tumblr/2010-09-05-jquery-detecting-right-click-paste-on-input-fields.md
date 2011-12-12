@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: ! 'jQuery: Detecting right click paste on input fields'
 categories:
 - jQuery
