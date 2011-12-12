@@ -2,8 +2,7 @@
 // Add styles here to make changes without digging in too much
 
 // All anchor links should not be underlined
-a { text-decoration: none; &:hover { text-decoration: none; } }
-article { header { h1 { a { &:hover { text-decoration: none; } } } } }
+a { text-decoration: none !important; &:hover { text-decoration: none !important; } }
 
 // Always use the same colour for sidebar links (Default is to display them as grey until the sidebar is hovered)
 
