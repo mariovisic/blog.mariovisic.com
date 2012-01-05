@@ -18,6 +18,7 @@ time I realised that it had changed and I could no longer quickly grab
 colour values to use. I realised though by changing one of the menu
 settings I could get back the previous functionality; here's how:
 
+<!-- more -->
 
 First open the DigitalColor Meter app, you can find it using Spotlight.
 
