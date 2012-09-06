@@ -162,5 +162,5 @@ down in one go without pausing then something isn't setup correctly, perhaps
 make sure you don't have any rack middleware that is modifying your response.
 
 ## More Resources
-[Riding Rails announcement](http://weblog.rubyonrails.org/2011/4/18/why-http-streaming/)
+[Riding Rails announcement](http://weblog.rubyonrails.org/2011/4/18/why-http-streaming/)  
 [Railscast Episode #266 HTTP Streaming](http://railscasts.com/episodes/266-http-streaming)
