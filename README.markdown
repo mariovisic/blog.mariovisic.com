@@ -1,6 +1,6 @@
 ## What is this?
 
-The source code for [www.mariovisic.com](http://www.mariovisic.com/)  
+The source code for [blog.mariovisic.com](http://blog.mariovisic.com/)  
 It [runs on octopress](https://github.com/imathis/octopress)
 
 
