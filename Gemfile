@@ -7,12 +7,15 @@ group :development do
   gem 'rdiscount'
   gem 'pygments.rb'
   gem 'RedCloth'
-  gem 'haml', '>= 3.1'
-  gem 'compass', '>= 0.11'
+  gem 'haml'
   gem 'rubypants'
   gem 'rb-fsevent'
   gem 'stringex'
-  gem 'liquid', '2.2.2'
+  gem 'liquid'
+
+  # newer compass and sass versions are incompatible with the stylesheets.
+  gem 'compass', '0.11.5'
+  gem 'sass', '3.1.5'
 end
 
-gem 'sinatra', '1.2.6'
+gem 'sinatra'
