@@ -31,3 +31,13 @@ $sidebar-width-wide: 300px;
     padding-left: 4px;
   }
 }
+
+article.hentry {
+  footer {
+    padding-top: 10px;
+    p {
+      background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAABCAYAAACsXeyTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAFUlEQVQIHWNIS0sr/v//PwMMDzY+ADqMahlW4J91AAAAAElFTkSuQmCC') top left repeat-x;
+      padding-top: 15px;
+    }
+  }
+}
