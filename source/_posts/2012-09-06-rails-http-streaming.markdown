@@ -68,10 +68,9 @@ matching `provide` call which may negate the effects of streaming somewhat.
 ### Rack server
 
 Unicorn supports HTTP streaming with a simple configuration option
-`tcp_nopush`. Check the [unicorn
-documentation](http://unicorn.bogomips.org/Unicorn/Configurator.html) for more
-information. If you're using something besides unicorn then be sure to check
-first if it supports streaming.
+`tcp_nopush`. Check the [unicorn documentation](http://unicorn.bogomips.org/Unicorn/Configurator.html) 
+for more information. If you're using something besides unicorn then be sure to
+check first if it supports streaming.
 
 ### Controllers
 
@@ -80,7 +79,9 @@ The whole point of streaming is to get as much of the HTML out the door as
 quick as possible which means deferring any heavy database calls, any external
 calls.
 
-Newer versions of ActiveRecord do not evaluate queries until it is needed, this means that if your code in your controller looks like any of these, then you're all good:
+Newer versions of ActiveRecord do not evaluate queries until it is needed, this
+means that if your code in your controller looks like any of these, then you're
+all good:
 
 ``` ruby
 User.limit(10).order('name desc')
@@ -88,7 +89,9 @@ User.where(:name => 'BoB')
 User.find(5)
 ```
 
-One thing to look for is when returning a list of results, don't use `.all()` as it will immediately convert the results to an array, use `.scoped()` instead.
+One thing to look for is when returning a list of results, don't use `.all()`
+as it will immediately convert the results to an array, use `.scoped()`
+instead.
 
 ``` ruby
 # Instead of:
@@ -136,7 +139,9 @@ for more info.
 
 ### Testing it works
 
-The first thing to check is that the server isn't calculating a content length and is instead given us a streamed response. You can confirm this by checking the response headers for your site like so:
+The first thing to check is that the server isn't calculating a content length
+and is instead given us a streamed response. You can confirm this by checking
+the response headers for your site like so:
 
 ```
 curl -I -X GET http://yourwebsite.com/
